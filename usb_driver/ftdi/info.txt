@@ -1,0 +1,2 @@
+CDM v2.12.28 WHQL Certified
+https://www.ftdichip.com/Drivers/VCP.htm
