@@ -8,14 +8,9 @@
 # pd, 2021-11-03
 #
 ####################################################################################################
-import os 
 import PySimpleGUI as sg
-import numpy as np
-from datetime import date
 import serial
 import serial.tools.list_ports_windows
-import io
-import time
 
 # global constants
 SYSTEM_COLOR = '#f0f0f0'
