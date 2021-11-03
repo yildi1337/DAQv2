@@ -1,0 +1,7 @@
+# `.gitattributes` file which reclassifies files as LabVIEW so Github's Linguist can show code contents by language:
+*.vi linguist-language=LabVIEW
+*.vim linguist-language=LabVIEW
+*.lvclass linguist-language=LabVIEW
+*.ctl linguist-language=LabVIEW
+*.xctl linguist-language=LabVIEW
+*.xnode linguist-language=LabVIEW
