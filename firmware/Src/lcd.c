@@ -77,17 +77,17 @@ extern void LCD_Clear(void)
 
 extern void LCD_SetCursor(LCD_ROW_t row, int col)
 {
-    switch(row)
-    {
-        case LCD_ROW_0:
-            col |= 0x80;
-            break;
-        case LCD_ROW_1:
-            col |= 0xC0;
-            break;
-    }
+	switch(row)
+	{
+		case LCD_ROW_0:
+			col |= 0x80;
+			break;
+		case LCD_ROW_1:
+			col |= 0xC0;
+			break;
+	}
 
-   LCD_Send8BitCommandIn4BitMode(col);
+	LCD_Send8BitCommandIn4BitMode(col);
 }
 
 extern void LCD_SendString(char * pStr)
