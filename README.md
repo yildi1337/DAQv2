@@ -58,7 +58,7 @@ In addition, a step file of the complete device, i.e. a model of the PCB embedde
 Please see subdirectory *schematics*.
 
 # Board
-The PCB was designed in Autodesk EAGLE 9.6.2 and manufactured by [JLCPCB](https://jlcpcb.com/).
+The PCB was designed in Autodesk EAGLE 9.6.2 and manufactured by [JLCPCB](https://jlcpcb.com/). All Gerber files can be found in the subdirectory *gerber_files*.
 
 <p align="center">
   <img src="https://github.com/yildi1337/DAQv2/blob/main/pictures/pcb_raw_top.png" />
