@@ -71,3 +71,40 @@ The PCB was designed in Autodesk EAGLE 9.6.2 and manufactured by [JLCPCB](https:
 # Firmware
 The source code of software running on the STM32H753ZIT6 can be found in the subdirectory *firmware*). For the development and debugging I used STM32CubeIDE version 1.7.0. For programming I used the ST-LINK/V2 in-circuit debugger/programmer.
 
+# USB Debug Interface
+
+A tool for the graphical display of status information and for controlling the DAQ v2 hardware via the virtual serial interface (second USB-B port) has been developed in Python, see subdirectory *debug_interface*.
+
+<p align="center">
+  <img src="https://github.com/yildi1337/DAQv2/blob/main/debug_interface/screenshot/screenshot_usb_debug_interface.png" />
+</p>
+
+# LabVIEW Real-Time Data Receiver
+
+A software vor real-time data reception and visualization of the signals both in time and frequency domain has been developed in LabVIEW, see subdirectory *labview*.
+
+<p align="center">
+  <img src="https://github.com/yildi1337/DAQv2/blob/main/labview/screenshots/1.png" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/yildi1337/DAQv2/blob/main/labview/screenshots/2_signal.png" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/yildi1337/DAQv2/blob/main/labview/screenshots/2_noise.png" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/yildi1337/DAQv2/blob/main/labview/screenshots/3.png" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/yildi1337/DAQv2/blob/main/labview/screenshots/4.png" />
+</p>
+
+# Noise
+
+The voltage noise densities were measured for various cases (open inputs, shortened inputs, and 50 Ohm resistors connected to the inputs). 
+
+Not yet available.
