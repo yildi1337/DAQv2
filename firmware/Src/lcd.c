@@ -92,7 +92,8 @@ extern void LCD_SetCursor(LCD_ROW_t row, int col)
 
 extern void LCD_SendString(char * pStr)
 {
-	while(*pStr)		LCD_Send8BitDataIn4BitMode(*pStr++);
+	while(*pStr)
+		LCD_Send8BitDataIn4BitMode(*pStr++);
 }
 
 void LCD_Send8BitCommandIn4BitMode(uint8_t cmd)
