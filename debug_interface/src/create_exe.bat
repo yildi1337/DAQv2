@@ -1,0 +1,1 @@
+pyinstaller DebugInterface.py --noconfirm --clean --onefile --windowed
