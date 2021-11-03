@@ -1,10 +1,10 @@
 /*
  *******************************************************************************
- * File:			usb_debug.c
- * Date:			2020-11-03
- * Author:			Phillip Durdaut
- * Summary:			Functions for communicating over the USB debug interface
- * Notes:			-
+ * File:            usb_debug.c
+ * Date:            2020-11-03
+ * Author:          Phillip Durdaut
+ * Summary:         Functions for communicating over the USB debug interface
+ * Notes:           -
  *******************************************************************************
  */
 
@@ -15,7 +15,7 @@
 
 /* Private typedefs ----------------------------------------------------------*/
 /* Private defines -----------------------------------------------------------*/
-#define USB_DEBUG_FLOAT_MAX_LENGTH_CHARS		64
+#define USB_DEBUG_FLOAT_MAX_LENGTH_CHARS        64
 
 /* Private macros ------------------------------------------------------------*/
 /* Private variables ---------------------------------------------------------*/

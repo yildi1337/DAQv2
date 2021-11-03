@@ -1,10 +1,10 @@
 /*
  *******************************************************************************
- * File:			usb_class.h
- * Date:			2020-11-14
- * Author:			Phillip Durdaut
- * Summary:			USB custom class driver
- * Notes:			-
+ * File:            usb_class.h
+ * Date:            2020-11-14
+ * Author:          Phillip Durdaut
+ * Summary:         USB custom class driver
+ * Notes:           -
  *******************************************************************************
  */
 

@@ -1,10 +1,10 @@
 /*
  *******************************************************************************
- * File:			usb_debug.h
- * Date:			2020-11-03
- * Author:			Phillip Durdaut
- * Summary:			Functions for communicating over the USB debug interface
- * Notes:			-
+ * File:            usb_debug.h
+ * Date:            2020-11-03
+ * Author:          Phillip Durdaut
+ * Summary:         Functions for communicating over the USB debug interface
+ * Notes:           -
  *******************************************************************************
  */
 

@@ -1,10 +1,10 @@
 /*
  *******************************************************************************
- * File:			vga.c
- * Date:			2020-11-07
- * Author:			Phillip Durdaut
- * Summary:			Functions for controlling the VGAs
- * Notes:			-
+ * File:            vga.c
+ * Date:            2020-11-07
+ * Author:          Phillip Durdaut
+ * Summary:         Functions for controlling the VGAs
+ * Notes:           -
  *******************************************************************************
  */
 
@@ -16,13 +16,13 @@
 
 /* Private typedefs ----------------------------------------------------------*/
 /* Private defines -----------------------------------------------------------*/
-#define VGA_GAIN_MIN					0.0
-#define VGA_GAIN_MAX					80.0
+#define VGA_GAIN_MIN                    0.0
+#define VGA_GAIN_MAX                    80.0
 
-#define VGA_GAIN_VMIN					0.1
-#define VGA_GAIN_VMAX					1.1
+#define VGA_GAIN_VMIN                   0.1
+#define VGA_GAIN_VMAX                   1.1
 
-#define VGA_VOLTAGE_PER_GAIN			((VGA_GAIN_VMAX-VGA_GAIN_VMIN)/(VGA_GAIN_MAX-VGA_GAIN_MIN))		/* 12.5 mV / 1 dB */
+#define VGA_VOLTAGE_PER_GAIN            ((VGA_GAIN_VMAX-VGA_GAIN_VMIN)/(VGA_GAIN_MAX-VGA_GAIN_MIN))    /* 12.5 mV / 1 dB */
 
 /* Private macros ------------------------------------------------------------*/
 /* Private variables ---------------------------------------------------------*/

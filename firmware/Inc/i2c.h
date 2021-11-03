@@ -1,10 +1,10 @@
 /*
  *******************************************************************************
- * File:			i2c.h
- * Date:			2020-12-10
- * Author:			Phillip Durdaut
- * Summary:			Functions for I2C communication handling
- * Notes:			-
+ * File:            i2c.h
+ * Date:            2020-12-10
+ * Author:          Phillip Durdaut
+ * Summary:         Functions for I2C communication handling
+ * Notes:           -
  *******************************************************************************
  */
 

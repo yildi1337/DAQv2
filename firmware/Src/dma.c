@@ -1,10 +1,10 @@
 /*
  *******************************************************************************
- * File:			dma.c
- * Date:			2020-11-11
- * Author:			Phillip Durdaut
- * Summary:			Functions for DMA handling
- * Notes:			-
+ * File:            dma.c
+ * Date:            2020-11-11
+ * Author:          Phillip Durdaut
+ * Summary:         Functions for DMA handling
+ * Notes:           -
  *******************************************************************************
  */
 

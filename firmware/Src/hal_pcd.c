@@ -1,17 +1,17 @@
 /*
  *******************************************************************************
- * File:			hal_pcd.c
- * Date:			2020-11-14
- * Author:			Phillip Durdaut
- * Summary:			Interface for calling lower layer functions from the HAL.
- * 					(Historically ST provides two different ways to implement
- * 					those callback functions. You either overwrite a weak symbol
- * 					buried somewhere in the HAL driver or you register the
- * 					callback functions in the peripheral handler (which requires
- * 					enabling a macro). Here, the first option is used and all
- * 					the callback functions with weak symbols inside
- * 					stm32h7xx_hal_pcd.c are copied here.)
- * Notes:			-
+ * File:            hal_pcd.c
+ * Date:            2020-11-14
+ * Author:          Phillip Durdaut
+ * Summary:         Interface for calling lower layer functions from the HAL.
+ *                  (Historically ST provides two different ways to implement
+ *                  those callback functions. You either overwrite a weak symbol
+ *                  buried somewhere in the HAL driver or you register the
+ *                  callback functions in the peripheral handler (which requires
+ *                  enabling a macro). Here, the first option is used and all
+ *                  the callback functions with weak symbols inside
+ *                  stm32h7xx_hal_pcd.c are copied here.)
+ * Notes:           -
  *******************************************************************************
  */
 

@@ -1,10 +1,10 @@
 /*
  *******************************************************************************
- * File:			stm32h7xx_it.c
- * Date:			2020-11-03
- * Author:			Phillip Durdaut
- * Summary:			Interrupt service routines
- * Notes:			-
+ * File:            stm32h7xx_it.c
+ * Date:            2020-11-03
+ * Author:          Phillip Durdaut
+ * Summary:         Interrupt service routines
+ * Notes:           -
  *******************************************************************************
  */
 

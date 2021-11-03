@@ -1,10 +1,10 @@
 /*
  *******************************************************************************
- * File:			led.c
- * Date:			2020-11-02
- * Author:			Phillip Durdaut
- * Summary:			Functions for controlling the board's (yellow debug) LEDs
- * Notes:			-
+ * File:            led.c
+ * Date:            2020-11-02
+ * Author:          Phillip Durdaut
+ * Summary:         Functions for controlling the board's (yellow debug) LEDs
+ * Notes:           -
  *******************************************************************************
  */
 

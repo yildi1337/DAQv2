@@ -1,10 +1,10 @@
 /*
  *******************************************************************************
- * File:			dma.c
- * Date:			2020-11-11
- * Author:			Phillip Durdaut
- * Summary:			Functions for DMA handling
- * Notes:			-
+ * File:            dma.c
+ * Date:            2020-11-11
+ * Author:          Phillip Durdaut
+ * Summary:         Functions for DMA handling
+ * Notes:           -
  *******************************************************************************
  */
 
@@ -16,9 +16,9 @@
 #include "main.h"
 
 /* Public defines ------------------------------------------------------------*/
-#define DMA_SPI2_RX_DMA1_STREAM0_BUFFER_SIZE_MILLI_SECONDS		5
-#define DMA_SPI2_RX_DMA1_STREAM0_BUFFER_SIZE_BYTES				(MAIN_ADC_BYTES_PER_MILLI_SECOND * DMA_SPI2_RX_DMA1_STREAM0_BUFFER_SIZE_MILLI_SECONDS)
-#define DMA_SPI2_RX_DMA1_STREAM0_CIRCULAR_BUFFER_SIZE_BYTES		(2 * DMA_SPI2_RX_DMA1_STREAM0_BUFFER_SIZE_BYTES)
+#define DMA_SPI2_RX_DMA1_STREAM0_BUFFER_SIZE_MILLI_SECONDS      5
+#define DMA_SPI2_RX_DMA1_STREAM0_BUFFER_SIZE_BYTES              (MAIN_ADC_BYTES_PER_MILLI_SECOND * DMA_SPI2_RX_DMA1_STREAM0_BUFFER_SIZE_MILLI_SECONDS)
+#define DMA_SPI2_RX_DMA1_STREAM0_CIRCULAR_BUFFER_SIZE_BYTES     (2 * DMA_SPI2_RX_DMA1_STREAM0_BUFFER_SIZE_BYTES)
 
 /* Public macros -------------------------------------------------------------*/
 /* Public typedefs -----------------------------------------------------------*/

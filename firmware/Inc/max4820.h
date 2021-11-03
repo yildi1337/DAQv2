@@ -1,10 +1,10 @@
 /*
  *******************************************************************************
- * File:			max4820.h
- * Date:			2021-10-20
- * Author:			Phillip Durdaut
- * Summary:			Functions for controlling the MAX4820 relay driver
- * Notes:			-
+ * File:            max4820.h
+ * Date:            2021-10-20
+ * Author:          Phillip Durdaut
+ * Summary:         Functions for controlling the MAX4820 relay driver
+ * Notes:           -
  *******************************************************************************
  */
 

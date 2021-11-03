@@ -1,10 +1,10 @@
 /*
  *******************************************************************************
- * File:			spi.c
- * Date:			2020-11-03
- * Author:			Phillip Durdaut
- * Summary:			Functions for SPI communication handling
- * Notes:			-
+ * File:            spi.c
+ * Date:            2020-11-03
+ * Author:          Phillip Durdaut
+ * Summary:         Functions for SPI communication handling
+ * Notes:           -
  *******************************************************************************
  */
 

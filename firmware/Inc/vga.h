@@ -1,10 +1,10 @@
 /*
  *******************************************************************************
- * File:			vga.h
- * Date:			2020-11-07
- * Author:			Phillip Durdaut
- * Summary:			Functions for controlling the VGAs
- * Notes:			-
+ * File:            vga.h
+ * Date:            2020-11-07
+ * Author:          Phillip Durdaut
+ * Summary:         Functions for controlling the VGAs
+ * Notes:           -
  *******************************************************************************
  */
 

@@ -1,10 +1,10 @@
 /*
  *******************************************************************************
- * File:			button.c
- * Date:			2021-10-20
- * Author:			Phillip Durdaut
- * Summary:			Functions for controlling the buttons
- * Notes:			-
+ * File:            button.c
+ * Date:            2021-10-20
+ * Author:          Phillip Durdaut
+ * Summary:         Functions for controlling the buttons
+ * Notes:           -
  *******************************************************************************
  */
 

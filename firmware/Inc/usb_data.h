@@ -1,11 +1,11 @@
 /*
  *******************************************************************************
- * File:			usb_data.h
- * Date:			2020-11-13
- * Author:			Phillip Durdaut
- * Summary:			Functions for communicating high-speed data over the USB
- * 					interface
- * Notes:			-
+ * File:            usb_data.h
+ * Date:            2020-11-13
+ * Author:          Phillip Durdaut
+ * Summary:         Functions for communicating high-speed data over the USB
+ *                  interface
+ * Notes:           -
  *******************************************************************************
  */
 
@@ -18,9 +18,9 @@
 #include "usbd_def.h"
 
 /* Public defines ------------------------------------------------------------*/
-#define USB_DATA_RXFIFO_ALL_SIZE_BYTES				1024
-#define USB_DATA_TXFIFO_ENDPOINT_0_SIZE_BYTES		1024
-#define USB_DATA_TXFIFO_ENDPOINT_1_SIZE_BYTES		2048
+#define USB_DATA_RXFIFO_ALL_SIZE_BYTES              1024
+#define USB_DATA_TXFIFO_ENDPOINT_0_SIZE_BYTES       1024
+#define USB_DATA_TXFIFO_ENDPOINT_1_SIZE_BYTES       2048
 
 /* Public macros -------------------------------------------------------------*/
 /* Public typedefs -----------------------------------------------------------*/

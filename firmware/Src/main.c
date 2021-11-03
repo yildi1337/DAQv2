@@ -1,10 +1,10 @@
 /*
  *******************************************************************************
- * File:			main.c
- * Date:			2021-10-20
- * Author:			Phillip Durdaut
- * Summary:			Main program file
- * Notes:			-
+ * File:            main.c
+ * Date:            2021-10-20
+ * Author:          Phillip Durdaut
+ * Summary:         Main program file
+ * Notes:           -
  *******************************************************************************
  */
 

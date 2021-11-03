@@ -1,11 +1,11 @@
 /*
  *******************************************************************************
- * File:			usbd_ll.c
- * Date:			2020-11-15
- * Author:			Phillip Durdaut
- * Summary:			Interface for calling HAL functions from the lower layer
- * 					functions
- * Notes:			-
+ * File:            usbd_ll.c
+ * Date:            2020-11-15
+ * Author:          Phillip Durdaut
+ * Summary:         Interface for calling HAL functions from the lower layer
+ *                  functions
+ * Notes:           -
  *******************************************************************************
  */
 

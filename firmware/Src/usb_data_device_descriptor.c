@@ -1,10 +1,10 @@
 /*
  *******************************************************************************
- * File:			usb_data_device_descriptor.c
- * Date:			2020-11-14
- * Author:			Phillip Durdaut
- * Summary:			Device descriptor for USB data (HS) communication
- * Notes:			-
+ * File:            usb_data_device_descriptor.c
+ * Date:            2020-11-14
+ * Author:          Phillip Durdaut
+ * Summary:         Device descriptor for USB data (HS) communication
+ * Notes:           -
  *******************************************************************************
  */
 
@@ -16,16 +16,16 @@
 
 /* Private typedefs ----------------------------------------------------------*/
 /* Private defines -----------------------------------------------------------*/
-#define USB_DATA_DEVICE_DESCRIPTOR_VENDOR_ID					MAIN_USB_VENDOR_ID
-#define USB_DATA_DEVICE_DESCRIPTOR_PRODUCT_ID					MAIN_USB_PRODUCT_ID
-#define USB_DATA_DEVICE_DESCRIPTOR_LANG_ID_STRING            	MAIN_USB_LANG_ID_STRING
-#define USB_DATA_DEVICE_DESCRIPTOR_MANUFACTURER_STRING      	MAIN_USB_MANUFACTURER_STRING
-#define USB_DATA_DEVICE_DESCRIPTOR_PRODUCT_STRING        		MAIN_USB_PRODUCT_STRING
-#define USB_DATA_DEVICE_DESCRIPTOR_SERIAL_STRING     			MAIN_USB_SERIAL_STRING
-#define USB_DATA_DEVICE_DESCRIPTOR_CONFIGURATION_STRING  		MAIN_USB_CONFIGURATION_STRING
-#define USB_DATA_DEVICE_DESCRIPTOR_INTERFACE_STRING      		MAIN_USB_INTERFACE_STRING
-#define USB_DATA_DEVICE_DESCRIPTOR_DEVICE_VERSION				MAIN_USB_DEVICE_VERSION
-#define USB_DATA_DEVICE_DESCRIPTOR_MAX_STRING_DESCRIPTOR_SIZE	0x100
+#define USB_DATA_DEVICE_DESCRIPTOR_VENDOR_ID                    MAIN_USB_VENDOR_ID
+#define USB_DATA_DEVICE_DESCRIPTOR_PRODUCT_ID                   MAIN_USB_PRODUCT_ID
+#define USB_DATA_DEVICE_DESCRIPTOR_LANG_ID_STRING               MAIN_USB_LANG_ID_STRING
+#define USB_DATA_DEVICE_DESCRIPTOR_MANUFACTURER_STRING          MAIN_USB_MANUFACTURER_STRING
+#define USB_DATA_DEVICE_DESCRIPTOR_PRODUCT_STRING               MAIN_USB_PRODUCT_STRING
+#define USB_DATA_DEVICE_DESCRIPTOR_SERIAL_STRING                MAIN_USB_SERIAL_STRING
+#define USB_DATA_DEVICE_DESCRIPTOR_CONFIGURATION_STRING         MAIN_USB_CONFIGURATION_STRING
+#define USB_DATA_DEVICE_DESCRIPTOR_INTERFACE_STRING             MAIN_USB_INTERFACE_STRING
+#define USB_DATA_DEVICE_DESCRIPTOR_DEVICE_VERSION               MAIN_USB_DEVICE_VERSION
+#define USB_DATA_DEVICE_DESCRIPTOR_MAX_STRING_DESCRIPTOR_SIZE   0x100
 
 /* Private macros ------------------------------------------------------------*/
 /* Private function prototypes -----------------------------------------------*/

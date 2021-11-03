@@ -1,11 +1,11 @@
 /*
  *******************************************************************************
- * File:			usb_data.c
- * Date:			2020-11-13
- * Author:			Phillip Durdaut
- * Summary:			Functions for communicating high-speed data over the USB
- * 					interface
- * Notes:			-
+ * File:            usb_data.c
+ * Date:            2020-11-13
+ * Author:          Phillip Durdaut
+ * Summary:         Functions for communicating high-speed data over the USB
+ *                  interface
+ * Notes:           -
  *******************************************************************************
  */
 
@@ -20,8 +20,8 @@
 
 /* Private typedefs ----------------------------------------------------------*/
 /* Private defines -----------------------------------------------------------*/
-#define USB_DATA_FLOAT_MAX_LENGTH_CHARS					64
-#define USB_DATA_ENDPOINT_1								1
+#define USB_DATA_FLOAT_MAX_LENGTH_CHARS                 64
+#define USB_DATA_ENDPOINT_1                             1
 
 /* Private macros ------------------------------------------------------------*/
 /* Private variables ---------------------------------------------------------*/

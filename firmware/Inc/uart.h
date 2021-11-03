@@ -1,10 +1,10 @@
 /*
  *******************************************************************************
- * File:			uart.h
- * Date:			2020-11-03
- * Author:			Phillip Durdaut
- * Summary:			Functions for UART communication handling
- * Notes:			-
+ * File:            uart.h
+ * Date:            2020-11-03
+ * Author:          Phillip Durdaut
+ * Summary:         Functions for UART communication handling
+ * Notes:           -
  *******************************************************************************
  */
 
@@ -16,7 +16,7 @@
 #include "main.h"
 
 /* Public defines ------------------------------------------------------------*/
-#define UART_UART1_BUFFER_SIZE_BYTES	256
+#define UART_UART1_BUFFER_SIZE_BYTES    256
 
 /* Public macros -------------------------------------------------------------*/
 /* Public typedefs -----------------------------------------------------------*/

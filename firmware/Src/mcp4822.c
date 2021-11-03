@@ -1,10 +1,10 @@
 /*
  *******************************************************************************
- * File:			mcp4822.c
- * Date:			2020-11-05
- * Author:			Phillip Durdaut
- * Summary:			Functions for controlling the MCP822 DAC
- * Notes:			-
+ * File:            mcp4822.c
+ * Date:            2020-11-05
+ * Author:          Phillip Durdaut
+ * Summary:         Functions for controlling the MCP822 DAC
+ * Notes:           -
  *******************************************************************************
  */
 

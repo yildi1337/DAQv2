@@ -1,10 +1,10 @@
 /*
  *******************************************************************************
- * File:			usb_data_device_descriptor.h
- * Date:			2020-11-14
- * Author:			Phillip Durdaut
- * Summary:			Device descriptor for USB data (HS) communication
- * Notes:			-
+ * File:            usb_data_device_descriptor.h
+ * Date:            2020-11-14
+ * Author:          Phillip Durdaut
+ * Summary:         Device descriptor for USB data (HS) communication
+ * Notes:           -
  *******************************************************************************
  */
 

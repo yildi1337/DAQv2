@@ -1,10 +1,10 @@
 /*
  *******************************************************************************
- * File:			uart.c
- * Date:			2020-11-03
- * Author:			Phillip Durdaut
- * Summary:			Functions for UART communication handling
- * Notes:			-
+ * File:            uart.c
+ * Date:            2020-11-03
+ * Author:          Phillip Durdaut
+ * Summary:         Functions for UART communication handling
+ * Notes:           -
  *******************************************************************************
  */
 

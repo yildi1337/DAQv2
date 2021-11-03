@@ -1,10 +1,10 @@
 /*
  *******************************************************************************
- * File:			ad7768.h
- * Date:			2020-11-08
- * Author:			Phillip Durdaut
- * Summary:			Functions for controlling the AD7768(-4BSTZ) ADC
- * Notes:			Mode B registers not used
+ * File:            ad7768.h
+ * Date:            2020-11-08
+ * Author:          Phillip Durdaut
+ * Summary:         Functions for controlling the AD7768(-4BSTZ) ADC
+ * Notes:           Mode B registers not used
  *******************************************************************************
  */
 
