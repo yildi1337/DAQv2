@@ -33,7 +33,7 @@ Not yet available.
 A 3D model of the PCB can be found in the Autodesk Fusion Cloud where it can be downloaded in various file types.
 
 <p align="center">
-    <a href="https://a360.co/31t7ZPF"><img src="https://github.com/yildi1337/DAQv2/blob/main/pictures/daq_v2_stm32h7_autodesk_fusion.png" /></a>
+    <a href="https://a360.co/31t7ZPF" target="blank"><img src="https://github.com/yildi1337/DAQv2/blob/main/pictures/daq_v2_stm32h7_autodesk_fusion.png" /></a>
 </p>
 
 In addition, a step file of the complete device, i.e. a model of the PCB embedded into the housing ([TEKO 935.9](https://www.teko.it/de/produkte/produktfamilie/FP/serie/euro-93)), can be found in the directory *3d_model*.
