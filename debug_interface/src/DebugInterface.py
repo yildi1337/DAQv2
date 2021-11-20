@@ -11,6 +11,7 @@
 import PySimpleGUI as sg
 import serial
 import serial.tools.list_ports_windows
+import time
 
 # global constants
 SYSTEM_COLOR = '#f0f0f0'
